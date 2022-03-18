@@ -27,3 +27,8 @@ i{
     font-size: 60px;
     margin-top: 10px;
 }
+@media (max-width: 580px){
+    body{
+        flex-direction: column;
+    }
+}
